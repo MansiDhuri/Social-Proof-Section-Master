@@ -70,6 +70,7 @@ The more specific you are with your questions the more likely it is that another
 Feedback is always welcome, so if you have any to give on this challenge please email hi[at]frontendmentor[dot]io.
 
 This challenge is completely free. Please share it with anyone who will find it useful for practice.
+
 **Have fun building!** 🚀
 
 
